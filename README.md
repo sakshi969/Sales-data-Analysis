@@ -38,3 +38,5 @@ SUMX(): Aggregates data for specific filtered groups.
 DIVIDE(): Calculates percentage contributions across different dimensions.
 
 
+![Power BI Dashboard Preview](pb-1.png.png)
+![Power BI Dashboard Preview](pb-2.png.png)
