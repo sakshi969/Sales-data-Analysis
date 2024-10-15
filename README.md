@@ -40,3 +40,5 @@ DIVIDE(): Calculates percentage contributions across different dimensions.
 
 ![Power BI Dashboard Preview](pb-1.png)
 ![Power BI Dashboard Preview](pb-2.png)
+[View Live Power BI Dashboard](https://app.powerbi.com/groups/me/reports/18455ced-4ee7-4993-9244-2f8e13c58ee9?ctid=8d46a076-d093-416d-a57b-8692cde13bf8&pbi_source=linkShare)
+
